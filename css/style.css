@@ -110,3 +110,26 @@ nav a {
 }
 
 /* banner related style end */
+
+/* brand related style start */
+
+.brand {
+    max-width: 1440px;
+    margin: 0px auto;
+    padding-top: 70px;
+}
+
+.divider {
+    text-align: center;
+}
+
+.brand-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 35px 0px;
+}
+
+.brand-logo {}
+
+/* brand related style end */
